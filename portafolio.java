@@ -8,7 +8,8 @@ public class portafolio {
         int opcion;
 
         do {
-
+            System.out.println("");
+            System.out.println("");
            System.out.println("   #                                     ");
            System.out.println("  # #   #      ######      #  ####       ");
            System.out.println(" #   #  #      #           # #    #      ");
@@ -22,7 +23,7 @@ public class portafolio {
 
             System.out.println("Selecciona una opcion para continuar");
            
-            System.out.println("[1]");
+            System.out.println("[1] La suma de 2 números");
             System.out.println("[2]");
             System.out.println("[3]");
             System.out.println("[4]");
@@ -33,6 +34,16 @@ public class portafolio {
             //OPCIONES
             switch (opcion) {
                 case 1:
+                  System.out.println("Ingrese el primer número");
+                  int num1=global.nextInt();
+
+                  System.out.println("Ingrese el segundo número");
+                  int num2=global.nextInt();
+
+                  int resultado=num1+num2;
+                  System.out.println("El resultado es "+resultado);
+
+
                     
                     break;
 
