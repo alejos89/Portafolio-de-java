@@ -4,7 +4,7 @@
 Presentación de mis proyectos con JAVA SE versión 18
 
 Interfaz del programa
-![Logo](https://github.com/alejos89/Portafolio-de-java/blob/main/Captura%20de%20pantalla%202025-03-18%20085444.png?raw=true)
+![Logo](https://github.com/alejos89/Portafolio-de-java/blob/main/captura.png?raw=true)
 
 
 
